@@ -17,5 +17,5 @@ for i in range(5):
 media = statistics.mean(muestra)
 
 
-print(muestra)
-print(media)
+print("La muestra de 5 elementos es: ", muestra)
+print("La media de la muestra es: ", media)
